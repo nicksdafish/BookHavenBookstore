@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "name":" Book 1",
+        "price": 20,
+        "image": "../images/stock/book1.png"
+    },
+    {
+        "id": 2,
+        "name":" Book 2",
+        "price": 25,
+        "image": "../images/stock/book2.png"
+    },
+    {
+        "id": 3,
+        "name":" Book 3",
+        "price": 29,
+        "image": "../images/stock/book3.png"
+    },
+    {
+        "id": 4,
+        "name":" Magazine 1",
+        "price": 5,
+        "image": "../images/stock/magazine1.png"
+    },
+    {
+        "id": 5,
+        "name":" Magazine 2",
+        "price": 6,
+        "image": "../images/stock/magazine2.png"
+    },
+    {
+        "id": 6,
+        "name":" Magazine 3",
+        "price": 8,
+        "image": "../images/stock/magazine3.png"
+    },
+    {
+        "id": 7,
+        "name":" Notebook",
+        "price": 10,
+        "image": "../images/stock/Notebook.png"
+    },
+    {
+        "id": 8,
+        "name":" Stickers",
+        "price": 10,
+        "image": "../images/stock/Stickers.png"
+    },
+    {
+        "id":9,
+        "name":"Tote Bag",
+        "price":25,
+        "image":"../images/stock/ToteBag.png"
+    }
+
+]
